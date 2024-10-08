@@ -29,19 +29,19 @@ To set up and run DocuMate locally, follow these steps:
 
 1. **Clone the Repository:**
 
-   ```bash
+   ``bash
    git clone https://github.com/PradheebanAnandhan/DocuMate.git
    cd documate
 
 2. **Create a Virtual Environment (Optional but Recommended):**
 
-```bash
+``bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. **Install Dependencies:**
 
-```bash
+``bash
 Copy code
 pip install -r requirements.txt
 Set Up Environment Variables:
